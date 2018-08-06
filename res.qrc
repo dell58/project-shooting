@@ -1,0 +1,13 @@
+<RCC>
+<qresource prefix="/">
+<file>res/bullet.png</file>
+<file>res/dragon_bullet.png</file>
+<file>res/skill.png</file>
+<file>res/frame.png</file>
+<file>res/fire_dragon.png</file>
+<file>res/enemy.png</file>
+<file>res/character.png</file>
+</qresource>
+</RCC>
+
+
